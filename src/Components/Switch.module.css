@@ -1,0 +1,33 @@
+.toggleButton {
+  position: absolute;
+  width: 335px;
+  height: 60px;
+  left: 553px;
+  top: 870px;
+
+  background: rgba(65, 137, 221, 0.1);
+  border-radius: 15px;
+}
+.toggleButtons {
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  width: 167px;
+  height: 60px;
+  text-align: center;
+  border: none;
+
+  color: #01435a;
+}
+.toggleLeft {
+  color: #ffffff;
+  background: #4189dd;
+  border-radius: 15px;
+}
+.toggleRight {
+  color: white;
+  background: #4189dd;
+  border-radius: 15px;
+}

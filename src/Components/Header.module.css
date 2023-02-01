@@ -1,0 +1,122 @@
+.Header {
+  background-color: #4189dd;
+  height: 750px;
+  background-image: url("/public/worldMap.png");
+  background-size: 95% 95%;
+  background-repeat: no-repeat;
+  background-position: 20px 10px;
+}
+
+.svg {
+  position: absolute;
+  width: 137.17px;
+  height: 33.28px;
+  left: 100px;
+  top: 34.25px;
+}
+.earlyAccessButton {
+  position: absolute;
+  width: 181px;
+  height: 55px;
+  left: 1158px;
+  top: 22px;
+
+  background: #ffffff;
+  border-radius: 15px;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+
+  text-align: center;
+  border: none;
+  color: #4189dd;
+}
+.para1 {
+  position: absolute;
+  width: 604px;
+  height: 187px;
+  left: 100px;
+  top: 210px;
+
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 60px;
+  /* or 133% */
+
+  color: #ffffff;
+}
+.para2 {
+  position: absolute;
+  width: 254px;
+  height: 56px;
+  left: 100px;
+  top: 427px;
+
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 50px;
+  /* or 167% */
+
+  color: #ffffff;
+}
+.inputMail {
+  box-sizing: border-box;
+  position: absolute;
+  width: 527px;
+  height: 55px;
+  left: 100px;
+  top: 550px;
+  background: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 15px;
+}
+.inputMailImg {
+  position: absolute;
+  left: 20px;
+  /* right: 6.25%; */
+  top: 18px;
+}
+.inputMailInput {
+  position: absolute;
+  width: 275px;
+  height: 26px;
+  left: 54px;
+  top: 14px;
+  border: none;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #4189dd;
+  opacity: 0.3;
+}
+.inputMailButton {
+  position: absolute;
+  width: 181px;
+  height: 49px;
+  left: 343px;
+  top: 3px;
+  color: #ffffff;
+  background: #4189dd;
+  border-radius: 15px;
+  border: none;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+}
+.headerPhone {
+  position: absolute;
+  width: 500px;
+  height: 560px;
+  left: 750px;
+  top: 121px;
+}
